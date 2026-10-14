@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+P001,Smartphone X, ELEKTRONIK ,3500000.0
+P001,Smartphone X,Elektronik,3500000.0
+P002,Laptop Pro,Elektronik,8500000.0
+P003,Kemeja Casual, Fashion ,150000.0
+P004,Celana Jeans,fashion,250000.0
+P005,Blender Jus, RUMAH TANGGA ,300000.0
+P006,Sofa Bed,Rumah Tangga,1200000.0
+P007,Sepatu Sneakers,fashion,450000.0
+P008,Headset Bluetooth,elektronik,200000.0
+,Barang Rusak,Lainnya,50000.0
