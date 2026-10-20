@@ -1,7 +1,10 @@
 .Trash-0/
 .ipynb_checkpoints/
 __pycache__/
-*.pyc
+*.py[cod]
 .env
+*.env
 .venv/
 venv/
+*.parquet/
+EOF
